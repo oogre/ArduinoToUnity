@@ -1,0 +1,15 @@
+[submodule "librairies/Arduino/CapacitiveSensor"]
+	path = librairies/Arduino/CapacitiveSensor
+	url = https://github.com/oogre/CapacitiveSensor.git
+[submodule "librairies/Arduino/OSC"]
+	path = librairies/Arduino/OSC
+	url = https://github.com/oogre/OSC.git
+[submodule "librairies/Processing/controlp5"]
+	path = librairies/Processing/controlp5
+	url = https://github.com/oogre/controlp5.git
+[submodule "librairies/Processing/udp"]
+	path = librairies/Processing/udp
+	url = https://github.com/oogre/udp.git
+[submodule "librairies/Unity/OscJack"]
+	path = librairies/Unity/OscJack
+	url = https://github.com/oogre/OscJack.git
